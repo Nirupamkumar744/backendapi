@@ -1,0 +1,38 @@
+[
+{
+    "id":1,
+    "titel": "First Course",
+    "image": "https://drive.google.com/file/d/1D0iBQWGeJC_Jko7KiPVYTxgQmi6McJO1/view?usp=sharing",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate"
+},
+{
+    "id":2,
+    "titel": "Second Course",
+    "image": "https://drive.google.com/file/d/1D0iBQWGeJC_Jko7KiPVYTxgQmi6McJO1/view?usp=sharing",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate"
+},
+{
+    "id":3,
+    "titel": "Third Course",
+    "image": "https://drive.google.com/file/d/1D0iBQWGeJC_Jko7KiPVYTxgQmi6McJO1/view?usp=sharing",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate"
+},
+{
+    "id":4,
+    "titel": "Fourth Course",
+    "image": "https://drive.google.com/file/d/1D0iBQWGeJC_Jko7KiPVYTxgQmi6McJO1/view?usp=sharing",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate"
+},
+{
+    "id":5,
+    "titel": "Fifth Course",
+    "image": "https://drive.google.com/file/d/1D0iBQWGeJC_Jko7KiPVYTxgQmi6McJO1/view?usp=sharing",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate"
+},
+{
+    "id":6,
+    "titel": "Sixth Course",
+    "image": "https://drive.google.com/file/d/1D0iBQWGeJC_Jko7KiPVYTxgQmi6McJO1/view?usp=sharing",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate"
+}
+]
