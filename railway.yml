@@ -1,0 +1,6 @@
+services:
+  web:
+    build: .
+    command: node index.js
+    env:
+      NODE_ENV: production
